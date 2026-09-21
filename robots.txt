@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://growstack.se/sitemap.xml
